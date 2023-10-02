@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Jiksi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/></h1>
 <div align="center">
   <a href="https://github.com/jiksi">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=jiksi&rank_icon=github&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=jiksi&rank_icon=github&show_icons=true&theme=dark&count_private=true"/>
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiksi&layout=compact&langs_count=7&theme=dark"/>
   </a>
 </div>
