@@ -43,12 +43,12 @@ I enjoy building useful products, experimenting with new technologies, and turni
 
 <div align="center">
 
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=Jiksi&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Jiksi's GitHub stats" />
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Jiksi&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Jiksi's top languages" />
+<img height="165" src="https://raw.githubusercontent.com/Jiksi/github-stats-card/main/github-stats.svg" alt="Jiksi's GitHub stats" />
+<img height="165" src="https://raw.githubusercontent.com/Jiksi/github-stats-card/main/top-langs.svg" alt="Jiksi's top languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Jiksi&theme=github-dark-blue&hide_border=true" alt="Jiksi's GitHub streak" />
+<img src="https://raw.githubusercontent.com/Jiksi/github-stats-card/main/streak-stats.svg" alt="Jiksi's GitHub streak" />
 
 </div>
 
